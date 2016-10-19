@@ -1,6 +1,10 @@
-# react-portfolio
-**A workshop for ReactJS. Find the step by step tutorial in the [speakerNotes.md](https://github.com/fabe/react-portfolio/blob/master/speakerNotes.md).**
+# mlb-react
+**A collection of React apps based around MLB's API**
 
-This is a step by step tutorial to learn the basics of ReactJS. You will be building a simple portfolio page using the basic functionalities of React such as `components`, `props` and `state`. It also includes a call to the Dribbble API, so you'll learn how to use live data in React.
+**Player Profiles**
 
-The workshop was held at the University of Applied Sciences Potsdam in January 2016.
+**Stats**
+
+**Scoreboard**
+
+**Matchups**
