@@ -1,16 +1,19 @@
 {
-  "name": "react-portfolio",
+  "name": "react-mlb",
   "version": "1.0.0",
-  "description": "A React.js based portfolio.",
+  "description": "react apps using the MLB API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "./node_modules/.bin/gulp --gulpfile empty/gulpfile.js",
     "completed": "./node_modules/.bin/gulp --gulpfile completed/gulpfile.js"
   },
-  "author": "Fabian Schultz",
-  "repository": "https://github.com/fabe/react-portfolio",
-  "license": "MIT",
+  "author": "Peter Cabrera",
+  "repository": {
+    "url": "https://github.com/pacabr/react-mlb.git",
+    "type": "git"
+  },
+  "license": "none",
   "dependencies": {
     "jquery": "^2.1.4",
     "jribbble": "^2.0.4"

@@ -52,7 +52,7 @@ gulp.task('scripts', function() {
 // SASS to CSS (not important to this workshop)
 gulp.task('sass', function () {
   gulp.src('../sass/**/*.scss')
-    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+    .pipe(sass({outputStyle: 'expanded'}).on('error', sass.logError))
     .pipe(gulp.dest('./build/css/'));
 });
 
